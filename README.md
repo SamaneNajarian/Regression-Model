@@ -1,6 +1,5 @@
 Car Price Prediction Project
 
-Author: Samane Najarian
 Language: R
 Dataset: Used cars specifications (Price, Age, KM, FuelType, HP, MetColor, Automatic, CC, Doors, Weight)
 

@@ -12,3 +12,8 @@ This project is developed and run in RStudio.
 Provide instructions on how to set up the project (if needed):
 ```r
 # Example R setup commands
+
+
+📬 Contact
+
+For questions, feel free to open an issue or reach out.
